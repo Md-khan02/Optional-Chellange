@@ -1,11 +1,11 @@
-### Largest Number Comparison Program
+
 # Description
 This Python program is designed to compare three numbers and print out the largest. It serves as an educational tool to illustrate common types of errors encountered in programming: compilation errors, runtime errors, and logical errors.
 
 # Errors in the Program
 The program includes intentional errors for educational purposes. Users are encouraged to identify and correct these errors as an exercise in debugging Python code.
 
-Errors List
+### Errors List
 Runtime Error:
 
  number3 is mistakenly assigned a string value instead of an integer, which will cause a TypeError during comparison operations since Python cannot compare integers and strings directly.
